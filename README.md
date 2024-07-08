@@ -6,7 +6,7 @@ Duration: **15** minutes
 
 ## Description
 
-Proceed to `LinearCalculation` class and implement two methods:
+Proceed to `LinearCalculation` class and implement method:
 - `public static double findCarsDistance(double car1Speed, double car2Speed, double initialDistance, double time)` \
   The speed of the first car is V1 km/h, the speed of 
   the second car is V2 km/h, the distance between them is S km. 
